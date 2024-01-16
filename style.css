@@ -9,4 +9,5 @@ button {background-color:seagreen; border-radius:8px; color:darkseagreen; paddin
     font-weight: 400;
     font-style: normal;
   }
-  
+  input {width:20%; margin:8px; border: 2px solid seagreen; border-radius:4px}
+  textarea{width:20%; margin:8px; border: 2px solid seagreen; border-radius:4px}
